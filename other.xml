@@ -1,0 +1,25 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\User\AppData\Local\Temp\3_6.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\AppData\Local\Temp\HW1_2.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\User\AppData\Local\Temp\3_6.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\AppData\Local\Temp\HW1_2.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\User\AppData\Local\Temp\3_6.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\AppData\Local\Temp\HW1_2.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\User\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
